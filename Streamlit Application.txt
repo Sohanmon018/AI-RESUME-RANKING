@@ -1,0 +1,7 @@
+The AI Resume Screening & Candidate Ranking System is built using Streamlit, a Python framework for creating interactive web applications. The application allows users to:
+
+Enter a Job Description in a text box.
+Upload Multiple Resumes (PDF format) for analysis.
+Automatically Rank Resumes based on their similarity to the job description.
+Visualize Rankings using a tabular format and a bar chart.
+The application provides an easy-to-use interface where hiring managers can efficiently filter the most relevant resumes without manual screening.

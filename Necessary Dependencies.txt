@@ -1,0 +1,12 @@
+The project uses the following key dependencies:
+
+1. Streamlit – For building the interactive web application.
+2.PyPDF2 – To extract text from PDF resumes.
+3.Pandas – For handling and displaying data in tabular format.
+4.NumPy – For numerical computations.
+5.Matplotlib – To visualize resume rankings using a bar chart.
+6.scikit-learn – For TF-IDF vectorization and cosine similarity calculations.
+
+To install all dependencies, run the following command:
+
+pip install streamlit PyPDF2 pandas numpy matplotlib scikit-learn
