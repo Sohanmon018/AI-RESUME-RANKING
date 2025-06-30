@@ -39,7 +39,7 @@ def set_bg():
     page_bg_img = '''
     <style>
     .stApp {
-        background: url("https://images.unsplash.com/photo-1524169358666-79f22534bc6e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") no-repeat center fixed;
+        background: url("https://www.google.com/imgres?q=background%20image%20&imgurl=https%3A%2F%2Fplus.unsplash.com%2Fpremium_photo-1701534008693-0eee0632d47a%3Ffm%3Djpg%26q%3D60%26w%3D3000%26ixlib%3Drb-4.1.0%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MXx8bGlnaHQlMjBjb2xvciUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%253D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flight-color-background&docid=Sjq70HRaSyrPmM&tbnid=Ep05NyLWfLZ0yM&vet=12ahUKEwi_mMi0zJmOAxUsb_UHHQ_HK2YQM3oECG8QAA..i&w=3000&h=1688&hcb=2&ved=2ahUKEwi_mMi0zJmOAxUsb_UHHQ_HK2YQM3oECG8QAA") no-repeat center fixed;
         background-size: cover;
     }
     </style>
